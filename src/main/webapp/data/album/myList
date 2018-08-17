@@ -1,0 +1,17 @@
+{"code":"1","msg":"操作成功",
+	"data":{
+		"pagesize":10,"cpage":5,"totoleSize":100,"pagecount":10,
+		"list":[ 
+			{
+				"id":1,
+				"name":"迪丽热巴",
+				"imgurl":"/resources/upload/6.jpg"
+			},
+			{
+				"id":2,
+				"name":"迪丽热巴.迪力木拉提",
+				"imgurl":"/resources/upload/7.jpg"
+			}
+		]
+	}
+}
